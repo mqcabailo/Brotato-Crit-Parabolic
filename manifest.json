@@ -3,7 +3,7 @@
 	"namespace": "Qcroma",
 	"version_number": "0.0.1",
 	"description": "Crit damage is now parabolic",
-	"website_url": "",
+	"website_url": "https://github.com/mqcabailo/Brotato-Crit-Parabolic",
 	"dependencies": [],
 	"extra": {
 		"godot": {
