@@ -1,0 +1,16 @@
+{
+	"name": "CritParabolic",
+	"namespace": "Qcroma",
+	"version_number": "0.0.1",
+	"description": "Crit damage is now parabolic",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"incompatibilities": [],
+			"authors": ["Qcroma"],
+			"compatible_mod_loader_version": ["6.2.0"],
+			"compatible_game_version": ["1.1.9.3"]
+		}
+	}
+}
