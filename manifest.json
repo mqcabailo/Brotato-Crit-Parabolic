@@ -1,7 +1,7 @@
 {
 	"name": "CritParabolic",
 	"namespace": "Qcroma",
-	"version_number": "0.0.2",
+	"version_number": "0.0.3",
 	"description": "Crit damage is now parabolic",
 	"website_url": "https://github.com/mqcabailo/Brotato-Crit-Parabolic",
 	"dependencies": [],
