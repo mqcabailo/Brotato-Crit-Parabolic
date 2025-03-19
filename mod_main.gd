@@ -11,7 +11,7 @@ var translations_dir_path := ""
 func _init() -> void:
 	mod_dir_path = ModLoaderMod.get_unpacked_dir().plus_file(QCROMA_CRITPARABOLIC_DIR)
 	extensions_dir_path = mod_dir_path.plus_file("extensions")
-	ModLoaderMod.install_script_extension(extensions_dir_path.plus_file("crit_parablic.gd"))
+	ModLoaderMod.install_script_extension(extensions_dir_path.plus_file("crit_parabolic.gd"))
 
 func _ready() -> void:
 	ModLoaderLog.info("Ready!", QCROMA_CRITPARABOLIC_LOG)
