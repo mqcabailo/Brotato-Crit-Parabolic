@@ -26,7 +26,7 @@ func take_damage(value: int, args: TakeDamageArgs) -> Array:
 			result = .take_damage(value, args)
 			
 		else:
-			var parabolic_crit_damage = value * (round(pow(hitbox_crit_damage, crit_power)) as int)
+			var parabolic_crit_damage = round(value * pow(hitbox_crit_damage, crit_power)) as int
 			
 			hitbox.crit_chance = 1.0
 			hitbox.crit_damage = 1.0
